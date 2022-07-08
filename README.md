@@ -1,2 +1,0 @@
-# parkingLot
-parkingLot project
