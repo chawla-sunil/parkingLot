@@ -14,8 +14,8 @@ public class Application {
     public static void main(String[] args) {
 
         Map<Integer, Slot> slotMap = new LinkedHashMap<>();
-        String filePath = "/home/sunil.kumarchawla/Desktop/parking3/src/input/input.txt";
-        //String filePath = System.getProperty("user.dir") + "/src/input/input.txt";
+        //String filePath = "/home/sunil.kumarchawla/Desktop/parking3/src/input/input.txt";
+        String filePath = System.getProperty("user.dir") + "/src/input/input.txt";
 
         System.out.println("Working Directory = " + System.getProperty("user.dir"));
         String a = System.getProperty("user.dir");
